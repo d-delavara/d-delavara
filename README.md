@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Student on the road to becoming a software engineer.<br>
-  I build things, break things, and learn a lot in the process.</em>
+  I like to build things,but most of the time i break it :).</em>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 - 🥽 VR fan (Quest 3S)
 - 📚 I love reading
 - 🌱 Currently learning: **Python, C++**
-- 💬 Ask me about: **3D printing, Arduino, VR, learning to code**
+- 💬 Ask me about: **3D printing, VR, learning to code**
 
 ---
 
@@ -80,4 +80,4 @@ Cosmere, by Brandon Sanderson and A Good Girl's Guide To Murder by Holly Jackson
 
 ---
 
-<p align="center"><sub>Always learning, always building. 🚀</sub></p>
+<p align="center"><sub>doing cool things. 🚀</sub></p>
